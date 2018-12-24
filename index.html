@@ -16,6 +16,17 @@
       .remark-code, .remark-inline-code {
         font-family: 'Inconsolata';
       }
+      .grid-container {
+        display: grid;
+        grid: 150px / auto auto auto;
+        grid-gap: 50px;
+        padding: 10px;
+      }
+      .grid-container > div {
+        text-align: center;
+        padding: 20px 0;
+        font-size: 30px;
+      }
     </style>
   </head>
   <body>
@@ -43,59 +54,42 @@ _nothing here yet_
 
 # foodsharing.de
 
+<img src="./images/fairteiler_regensburg.jpg" style="position: absolute; left: 210px; border: 3px solid black" width="700" />
+<img src="./images/foodsharing-logo.jpg" style="position: absolute; left: 50px; top: 140px; border: 3px solid black" />
+<img src="./images/fsPickup.jpg" style="position: absolute; left: 30px; top: 380px; border: 3px solid black" width="350" />
+<img src="./images/fsSaver.jpg" style="position: absolute; left: 870px; top: 330px; border: 3px solid black" height="300" />
+<img src="./images/fsPeople.jpg" style="position: absolute; left: 780px; top: 150px; border: 3px solid black" width="400" />
+
+
 ???
 - saving food before it's thrown into the bin
 - distributing it unconditionally to whoever can make use of it
 - grew big in German-speaking countries over the past 6 years
 - 50k foodsavers, 5k cooperating stores of all sizes
-- foodsavers in the audience?
 
 ---
 
-# User story:<br>foodsharing Östersund
+# What software doesn't do
 
-<div style="text-align: center">
-<img src="./images/TeddyFlight.jpg" height="400"/>
-</div>
-
-???
-- Teddy from Germany is a very active foodsaver going to Sweden for her studies
-- She wants to spread the idea of foodsaving in her new city Östersund (50k inhabitants)
-- She holds two info events to gather like-minded people (only 4-6 people show up)
-- She creates two facebook groups to gather interested people and fellow foodsavers respectively
-- She contacts stores to build up cooperations
-- She contacts us and asks for help setting up a group on Karrot
-- As soon as the cooperations are established the stores and pickups are put up on Karrot and people can sign up there
-
----
-
-# What Karrot doesn't do
-
-<div style="text-align: left">
-  <img src="./images/computerPersonText.jpg" width="400"/>
-</div>
-
-<div style="text-align: center">
-  <b>vs.</b>
-</div>
-
-<div style="text-align: right">
-  <img src="./images/nyamatraddareText.jpg" width="400"/>
+<div class="grid-container">
+  <img src="./images/computerPersonText.jpg" width="500"/>
+  <b style="margin-top: 200px">vs.</b>
+  <img src="./images/nyamatraddareText.jpg" width="460"style="margin-top: 180px"/>
 </div>
 
 ???
 - Most work happens offline!
-- Karrot doesn't help you find potential foodsavers
-- Karrot doesn't help you establish cooperations with stores
-- Karrot doesn't help you get off your chair to actually do a pickup
-- Karrot doesn't help you distribute huge amounts of saved food
+- You need to get out to find potential foodsavers
+- You need to talk to establish cooperations with stores
+- You need to get off your chair to actually do a pickup
+- You need a physical network to distribute huge amounts of saved food
 
 ---
 
 # Yay community! :D
 
 <div style="text-align: center">
-  <img src="./images/fsmoscow_team.jpg" width="640"/>
+  <img src="./images/fsmoscow_team.jpg" width="700"/>
 </div>
 
 ???
@@ -108,7 +102,7 @@ _nothing here yet_
 # How to find friends
 
 <div style="text-align: center">
-  <img src="./images/fsmaastricht_team.jpg" width="640"/>
+  <img src="./images/fsmaastricht_team.jpg" width="700"/>
 </div>
 
 ???
@@ -125,7 +119,7 @@ _nothing here yet_
 # With a core group...
 
 <div style="text-align: center">
-  <img src="./images/discosoupQuito.jpg" width="640"/>
+  <img src="./images/discosoupQuito.jpg" width="700"/>
 </div>
 
 ???
@@ -139,7 +133,7 @@ _nothing here yet_
 # Catalyst effect
 
 <div style="text-align: center">
-  <img src="./images/getGoingTogetherText.jpg" width="640"/>
+  <img src="./images/getGoingTogetherText.jpg" width="700"/>
 </div>
 
 ???
@@ -154,7 +148,7 @@ _nothing here yet_
 # Internalization
 
 <div style="text-align: center">
-  <img src="./images/lifestyleOfShaving.jpg" width="640"/>
+  <img src="./images/lifestyleOfShaving.jpg" width="700"/>
 </div>
 
 ???
@@ -165,6 +159,27 @@ _nothing here yet_
   - regain control over your desires, conquer your greed, understand that you are not your possessions
 - 'live by your own standards'
   - reject normality as a value in itself, form independent opinions
+
+---
+
+# User story:<br>foodsharing Östersund
+
+<div class="grid-container">
+  <img src="./images/TeddyFlight.jpg" height="400"/>
+  <div style="margin-top: 140px">Some months later:</div>
+  <img src="./images/teddyIca.jpg" height="400"/>
+</div>
+
+???
+- Teddy from Germany is a very active foodsaver going to Sweden for her studies
+- She wants to spread the idea of foodsaving in her new city Östersund (50k inhabitants)
+- She holds two info events to gather like-minded people (only 4-6 people show up)
+- She creates two facebook groups to gather interested people and fellow foodsavers respectively
+- She contacts stores to build up cooperations
+- She contacts us and asks for help setting up a group on Karrot
+- As soon as the cooperations are established the stores and pickups are put up on Karrot and people can sign up there
+
+---
 
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
