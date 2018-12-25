@@ -5,7 +5,5 @@ Draft for our talk at 35C3
 Built using [remark](https://github.com/gnab/remark)
 
 To do:
-- make presentation
 - add lots of pictures
-- have some more calls
-- add fonts and scripts locally before the talk
+- add fonts locally before the talk
