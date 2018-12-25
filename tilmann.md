@@ -31,13 +31,9 @@ Groups need people that take initiative.
 Strict hierarchical roles stiffle contributions.
 
 ---
-
-## This is Karrot
-
-<div align="center" style="clear: both">
-  <img height="300" src="https://user-images.githubusercontent.com/4410802/42418936-4b29eb8c-82ab-11e8-9fd6-329952c73800.png">
-  <img height="240" src="https://user-images.githubusercontent.com/4410802/42418974-ec3a8e6e-82ab-11e8-935c-83d158e5034d.png">
-</div>
+background-color: black
+background-image: url(images/karrotost.png)
+background-size: 90%
 
 ---
 
@@ -92,14 +88,15 @@ We still have server admins, but we want to minimize interventions as much as po
 # Karrot History
 
 - started in 2016
-- active users since mid-2017
+- has active users since mid-2017
 - currently 16 active groups in 9 countries with 500 active users
 - 50 food pickups per day
 
-_"utter failure!"_ (if we were a startup)
+--
 
-But:
-these people go out and save food every day, which is a win for their community
+&rarr; _"failure!"_ - if we were a startup
+
+But: **these people go out and save food every day!**
 
 ---
 
@@ -121,4 +118,20 @@ these people go out and save food every day, which is a win for their community
 - add feature to remove users from groups
 - improve self-managing hierarchy
 - better communication features
-- more than foodsaving: bike saving, wood saving, fruit from trees, elderly care, child care
+- more than foodsaving:
+  - bike saving
+  - wood saving
+  - fruit from trees
+  - elderly care
+  - child care
+
+---
+class: big
+# Karrot · help us!
+
+* have a chat at our assembly
+* community forum &rarr; [community.foodsaving.world](https://community.foodsaving.world)
+* foodsaving community stories &rarr; [foodsaving.today](https://foodsaving.today)
+* start a group! &rarr; [karrot.world/#/group/create](https://karrot.world/#/group/create)
+* contribute! &rarr; [github.com/yunity/karrot-frontend](https://github.com/yunity/karrot-frontend)
+* connect us with people who might fund it
