@@ -118,14 +118,13 @@ But: **these people go out and save food every day!**
 - unfunded
 - supported by saved food and various hackbases (-> Kanthaus)
 
---
+---
 
 ## Karrot · Future
 
-- add feature to remove users from groups
 - improve self-managing hierarchy
 - better communication features
-- groups spend some of their funds on Karrot
+- groups to spend some of their funds on Karrot
 - formalize cooperative structure for development and karrot.world
 - more than foodsaving:
   - bike saving
