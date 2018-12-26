@@ -175,7 +175,12 @@ Our foodsaving tool and community organizer...
 ???
 
 Karrot is our contribution to help foodsaving groups grow.
-Here is how it looks.
+It's a web app that gives each group their own space for organizing.
+We have desktop and mobile versions, because we are often on the road when we save food.
+
+In one sentence: think of it as a combination of a collaborative calender and a messaging system.
+
+Now let's look a bit deeper what we do on Karrot.
 
 ---
 background-color: black
@@ -183,25 +188,28 @@ background-image: url(images/karrotost.png)
 background-size: 90%
 
 ???
+First, someone will create a group. Here's how the group start screen looks.
+Then, they enter details about their co-operations, where and when they happen, if they happen regularly, how many people are needed and so on.
 
-What are people doing on Karrot?
+There's a list of food pickups and people can sign up for them.
+As you can see here, all slots are already filled, which is very good!
 
-- create a group
-- create a store (place)
-- set up one-time and recurring pickups
-- write messages
-- invite users
-- accept/decline applications to join
+We can also write messages to the whole group, to individual users or to those we do food pickups together with.
 
-- apply to join a group
-- sign up for food pickups
-- give feedback about pickups
+After doing the food pickup, we can give feedback how it went and how many kilos we saved.
+This helps to spread information amongst team members.
+We also get meaningful statistics.
+
+To grow our group, we can invite others via email or let them apply for the group.
+We can chat with them and invite them for a meeting in real-life before we accept them into the group.
 
 ---
 
 # Karrot · Comparison
 
-Karrot has been derived from our experience with foodsharing.de, with these modifications:
+<div class="center">
+  <img height="100px" src="images/foodsharing-logo-white.png" />
+</div>
 
 - independent groups
 - flexible system to accept new members and introduce them to the group
@@ -212,36 +220,47 @@ Karrot has been derived from our experience with foodsharing.de, with these modi
 
 
 ???
-examples
-sentences
+Karrot has drawn a number of inspirations from other software.
+Our main inspiration was foodsharing.de, with its dense network of foodsharing groups in German-speaking regions.
+But we made significant modifications to adapt it for worldwide use:
 
-foodsharing.de picture
+First, all groups are independent.
+This allows them to set their own rules, because the social and legal context of every country is different.
 
-hierachy
+we added localization support
+
+we got rid of the hierarchy.
 
 ---
 
-# No admin features?
+# Karrot · No admin roles?
 
-- prevent malicious use
-- stop abuse
-- prevent mistakes by unexperienced users
-- people are used to it from other software
+Yes, Karrot tries to organize groups without giving someone admin powers.
 
-
-Someone needs to set up everything and stay in control of it.
-We still have server admins, but we want to minimize interventions as much as possible.
+- people want to co-operate
+- enable social control
+- limit destructive actions
+- trust needed for changing group settings
 
 ???
-social control
-people want to co-operate
-prevent people from making mistakes
-do not assume malicious use by default
-history
-easier to code
+One decision that defines Karrot is how it handles admin tasks.
+We did everything we could to prevent admin roles.
+And it seems to work.
+
+Our assumption is that people want to co-operate to make something great.
+We added a history feature to log important actions and enable social control within the group.
+
+We limit the amount of destructive actions that can be done.
+No one can delete information, delete messages or remove users without involving others in the group.
+
+Newcomers have only limited rights until they gained the trust of other group members.
+All active members should grow out of the newcomer status at some point.
+
+Of course, we still have server admins.
+But we want to minimize interventions as much as possible and not let the admin roles creep down onto the users.
 
 ---
-# Self-managing hierarchy
+# Karrot · Self-managing hierarchy
 
 - trust system
 - newcomer role
@@ -249,6 +268,9 @@ easier to code
 - activity log
 - user removal through voting
 - limit destructive actions
+
+???
+should explain the trust system mentioned previous slide in more detail
 
 ---
 
@@ -271,13 +293,13 @@ But: **these people go out and save food every day!**
 
 # Karrot · Development
 
-- users suggest features and help with priorities
+- our users actively give feedback and help with setting priorities
 - unfunded
+- no one except the developers and the users have a say on what should be done
 - supported by saved food and various hackbases (&rarr; Kanthaus)
 
 ???
-we have users and they actively give feedback
-only the users tell us what we should do (no funding requirements)
+asdf
 
 --
 
