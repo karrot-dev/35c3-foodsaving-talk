@@ -168,8 +168,8 @@ class: big
 Our foodsaving tool and community organizer...
 
 <div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/4410802/42418936-4b29eb8c-82ab-11e8-9fd6-329952c73800.png">
-  <img height="300" src="https://user-images.githubusercontent.com/4410802/42418974-ec3a8e6e-82ab-11e8-935c-83d158e5034d.png">
+  <img height="350" src="./images/karrot-big.png">
+  <img height="300" src="./images/karrot-small.png">
 </div>
 
 ???
