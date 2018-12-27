@@ -180,7 +180,7 @@ We have desktop and mobile versions, because we are often on the road when we sa
 
 In one sentence: think of it as a combination of a collaborative calender and a messaging system.
 
-Now let's look a bit deeper what we do on Karrot.
+Now let's look a bit deeper what we can do on Karrot.
 
 ---
 background-color: black
@@ -216,7 +216,7 @@ We can chat with them and invite them for a meeting in real-life before we accep
 - better support for communication and notifications
 - feedback about pickups
 - multi-language and localization
-- self-managing hierarchy with a trust system
+- self-managing trust-based hierarchy
 
 
 ???
@@ -229,7 +229,8 @@ This allows them to set their own rules, because the social and legal context of
 
 we added localization support
 
-we got rid of the hierarchy.
+we got rid of the fixed hierarchy and replace it with a self-managing one.
+it is based on trust between users.
 
 ---
 
@@ -240,7 +241,6 @@ Yes, Karrot tries to organize groups without giving someone admin powers.
 - people want to co-operate
 - enable social control
 - limit destructive actions
-- trust needed for changing group settings
 
 ???
 One decision that defines Karrot is how it handles admin tasks.
@@ -250,17 +250,18 @@ And it seems to work.
 Our assumption is that people want to co-operate to make something great.
 We added a history feature to log important actions and enable social control within the group.
 
-We limit the amount of destructive actions that can be done.
-No one can delete information, delete messages or remove users without involving others in the group.
-
-Newcomers have only limited rights until they gained the trust of other group members.
-All active members should grow out of the newcomer status at some point.
-
-Of course, we still have server admins.
-But we want to minimize interventions as much as possible and not let the admin roles creep down onto the users.
+We limit the types of destructive actions that can be done on the website.
+No one can delete information, delete messages or remove users.
+Changes are being logged and visible for other group members.
+Drastic actions, like removing users, will involve others in the group.
 
 ---
-# Karrot · Self-managing hierarchy
+
+# Karrot · Trust-based hierarchy
+
+<div class="center">
+  <img height="100px" src="./images/karrot-trust.svg" />
+</div>
 
 - trust system
 - newcomer role
@@ -270,7 +271,11 @@ But we want to minimize interventions as much as possible and not let the admin 
 - limit destructive actions
 
 ???
-should explain the trust system mentioned previous slide in more detail
+
+Newcomers have only limited rights until they gained the trust of other group members.
+Because we want all members to have equal chances, active long-term members should grow out of the newcomer status at some point.
+
+We chose to go for a very simple trust system to experiment with it.
 
 ---
 
