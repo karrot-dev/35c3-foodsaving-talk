@@ -57,7 +57,7 @@ layout: true
 - it's just natural to spread it further and further
 - It already grew beyond the borders of Germany years ago
 - nowadays extends more and more into areas where no German is spoken
-- foodsharing.de - which is only available in German - cannot be used there
+- foodsharing.de - which is available in German only - cannot be used there
 - but really, you don't need software to get started
 
 
@@ -72,12 +72,13 @@ layout: true
 </div>
 
 ???
-- you only need some time, some ideas and some determination
+- software doesn't help you build a real-life network of people
+- what's needed is some time, some ideas and some determination to make this work
 - get off your chair and out into the real world
 - talk to people about food waste, form a first small group of like-minded individuals and gather the courage to contact stores at eye level
-- may not be the easiest thing, but can simply be _done_
-- No need to ask someone for permission
-- You can just take matters into your own hands and get active!
+- may not be the easiest thing, but can theoretically be started tomorrow
+- no need to ask someone for permission
+- you can just take matters into your own hands and get active!
 - but you don't need to get active alone...
 
 ---
@@ -109,10 +110,10 @@ layout: true
 - getting to know each other, spending time together and finding out to have something in common
 - foodsaving offers all this through a common goal and a plan!
 - Start with info events and communal cooking to spread the word, continue with building FSPs and cooperations
-- A core group of maybe 5 foodsavers is more than enough for starters.
+- for starters core group of maybe 5 foodsavers is more than enough
 - if everyone is a bit open and friendly you will most definitely get along
-- the more time you spend, the stronger your bond will grow.
-- So many things you can - and should! - do
+- the more time you spend, the stronger your bond will grow
+- So many things you can - and should! - do:
 - Hangouts, brunches, communal cooking, movie screenings
 - activities that are fun _and_ pr at the same time
 
@@ -147,9 +148,9 @@ layout: true
 - When people become foodsavers, they're normally interested in making the world a better place,
 - when they participate for a while, they learn that they actually _can_ make a change
 - positive, productive and practical environmental activists
-- similar topics in the sense of zero waste, upcycling, repairing and general environmentalism become obvious
+- many similar topics in the sense of zero waste, upcycling, repairing and general environmentalism become obvious
 - so do the many more similar forms of countering these, like:
-  - Organizing free shops and free markets, repair cafes, skill sharing sessions, etc.
+  - Organizing free shops and free markets, clothes sharing parties, repair cafes, skill sharing sessions, etc.
 
 ---
 
@@ -160,7 +161,8 @@ layout: true
 </div>
 
 ???
-- portmanteau of saving and sharing
+- by living this logic for a while people's view of the world can change
+
 - 'use what's already there'
   - get active to find it, to understand it, to make it accessible and useful again
 - 'share what you don't immediately need'
