@@ -199,7 +199,7 @@ layout: true
 class: big
 # Karrot
 
-Our foodsaving tool and community organizer...
+Our foodsaving tool and community organizer!
 
 <div align="center">
   <img height="350" src="./images/karrot-big.png">
@@ -239,6 +239,91 @@ We can chat with them and invite them for a meeting in real-life before we accep
 
 ---
 
+# Karrot · Our ideals
+
+- serve many groups
+- encourage do-ocratic action
+- limit abuse through transparency
+
+???
+Karrot development is driven by those ideas.
+
+We want to provide useful software for multiple groups which are different in many ways.
+They have different rules, different language.
+
+why we don't have admin roles
+
+...
+
+---
+
+# Karrot · No admin roles?
+
+Karrot tries to organize groups without giving someone admin powers.
+
+- people want to co-operate
+- enable social control
+- limit destructive actions
+
+???
+One decision that defines Karrot is how it handles admin tasks.
+We did everything we could to prevent admin roles.
+And it seems to work.
+
+Our assumption is that people want to co-operate to make something great.
+We added a history feature to log important actions and enable social control within the group.
+
+We limit the types of destructive actions that can be done on the website.
+No one can delete information, delete messages or remove users.
+Changes are being logged and visible for other group members.
+Drastic actions, like removing users, will involve others in the group.
+
+---
+
+# Karrot · Group membership life cycle
+
+Let's get active!
+
+- you apply to join group
+- group members interview you
+- (your accept rules, you come to a real-life meeting)
+- group member accepts your application
+- you are newcomer
+- you do pickups, meet people, give feedback
+- others trust you
+- you gain editing rights
+- you set up new co-operations and drive the group forward
+
+???
+
+...
+
+---
+
+# Karrot · self-managing hierarchy
+
+
+<div class="center">
+  <img height="100px" src="./images/karrot-trust.svg" />
+</div>
+
+- trust system
+- newcomer role
+- group application chat
+- activity log
+- user removal through voting
+
+???
+
+Newcomers have only limited rights until they gained the trust of other group members.
+Because we want all members to have equal chances, active long-term members should grow out of the newcomer status at some point.
+
+We chose to go for a very simple trust system to experiment with it.
+
+...
+
+---
+
 # Karrot · Comparison
 
 <div class="center">
@@ -266,50 +351,7 @@ we added localization support
 we got rid of the fixed hierarchy and replace it with a self-managing one.
 it is based on trust between users.
 
----
-
-# Karrot · No admin roles?
-
-Yes, Karrot tries to organize groups without giving someone admin powers.
-
-- people want to co-operate
-- enable social control
-- limit destructive actions
-
-???
-One decision that defines Karrot is how it handles admin tasks.
-We did everything we could to prevent admin roles.
-And it seems to work.
-
-Our assumption is that people want to co-operate to make something great.
-We added a history feature to log important actions and enable social control within the group.
-
-We limit the types of destructive actions that can be done on the website.
-No one can delete information, delete messages or remove users.
-Changes are being logged and visible for other group members.
-Drastic actions, like removing users, will involve others in the group.
-
----
-
-# Karrot · Trust-based hierarchy
-
-<div class="center">
-  <img height="100px" src="./images/karrot-trust.svg" />
-</div>
-
-- trust system
-- newcomer role
-- group application chat
-- activity log
-- user removal through voting
-- limit destructive actions
-
-???
-
-Newcomers have only limited rights until they gained the trust of other group members.
-Because we want all members to have equal chances, active long-term members should grow out of the newcomer status at some point.
-
-We chose to go for a very simple trust system to experiment with it.
+...
 
 ---
 
@@ -328,6 +370,10 @@ We chose to go for a very simple trust system to experiment with it.
 
 But: **these people go out and save food every day!**
 
+???
+
+...
+
 ---
 
 # Karrot · Development
@@ -338,7 +384,8 @@ But: **these people go out and save food every day!**
 - supported by saved food and various hackbases (&rarr; Kanthaus)
 
 ???
-asdf
+
+...
 
 --
 
@@ -346,6 +393,10 @@ asdf
 
 - groups to spend some of their funds on Karrot
 - formalize cooperative structure for development and karrot.world
+
+???
+
+...
 
 ---
 
@@ -358,6 +409,10 @@ We can do more than foodsaving:
 - elderly care
 - child care
 
+???
+
+...
+
 ---
 class: big
 # Karrot · join us!
@@ -368,3 +423,7 @@ class: big
 * start a group! &rarr; [karrot.world/#/group/create](https://karrot.world/#/group/create)
 * contribute! &rarr; [github.com/yunity/karrot-frontend](https://github.com/yunity/karrot-frontend)
 * connect us with people who might fund it
+
+???
+
+...
