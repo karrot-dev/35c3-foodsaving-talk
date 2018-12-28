@@ -238,25 +238,27 @@ We can chat with them and invite them for a meeting in real-life before we accep
 
 ---
 
-# Karrot · Our ideals
+# Karrot · Our goals
 
 - serve many groups in different countries
 - encourage do-ocratic participation
-- limit abuse
+- let people work together
 
 ???
 "Why is Karrot the way it is?"
 
-Karrot development is driven by those ideas.
+Karrot development is driven by those goals.
 
 We want to provide useful software for multiple groups which are different in many ways.
-They have different rules, different language.
+They come from different countries and have different rules, different language.
 
 We want to encourage participation in groups, from all members.
 Our model for this is "do-ocracy":
 do something if you think it should be done and be excellent to each other.
 
-We want to limit abuse, by having transparency as default to enable social control.
+We want to let people work together.
+Our assumption is that people want to work together to make something great.
+We want to make sure they can do that and limit disturbances.
 
 ...
 
@@ -287,9 +289,19 @@ Drastic actions, like removing users, will involve others in the group.
 
 ---
 
-# Karrot · Group membership life cycle
+# Karrot · Group membership progress
 
-Let's get active!
+<div class="center">
+  <img height="100px" src="./images/karrot-trust.svg" />
+</div>
+
+???
+
+"what's an example of the special karrot way?"
+
+There are many design decisions in Karrot that I would like to talk about.
+But there's not enough time in this talk, so I will just highlight one topic.
+The group membership progress.
 
 - you apply to join group
 - group members interview you
@@ -300,29 +312,6 @@ Let's get active!
 - others trust you
 - you gain editing rights
 - you set up new co-operations and drive the group forward
-
-???
-
-"what's an example of the special karrot way?"
-
-...
-
----
-
-# Karrot · self-managing hierarchy
-
-
-<div class="center">
-  <img height="100px" src="./images/karrot-trust.svg" />
-</div>
-
-- trust system
-- newcomer role
-- group application chat
-- activity log
-- user removal through voting
-
-???
 
 Newcomers have only limited rights until they gained the trust of other group members.
 Because we want all members to have equal chances, active long-term members should grow out of the newcomer status at some point.
@@ -408,7 +397,7 @@ it is based on trust between users.
 
 500 users in two years?
 
-&rarr; Failure! - _if we were a startup..._
+&rarr; fail! - _if we were a startup..._
 
 But: **these people go out and save food every day!**
 
@@ -421,6 +410,7 @@ But: **these people go out and save food every day!**
 # Karrot · Generalization
 
 We can do more than foodsaving:
+
 - bike saving &rarr; _Bike kitchen_ movement
 - wood saving
 - fruit from trees
@@ -429,18 +419,18 @@ We can do more than foodsaving:
 
 ???
 
+"Can other fields benefit from Karrot as well?"
 ...
 
 ---
 class: big
 # Karrot · join us!
 
-* have a chat at our assembly
+* our assembly &rarr; Hall 2, Kanthaus
 * community forum &rarr; [community.foodsaving.world](https://community.foodsaving.world)
 * foodsaving community stories &rarr; [foodsaving.today](https://foodsaving.today)
 * start a group! &rarr; [karrot.world/#/group/create](https://karrot.world/#/group/create)
-* contribute! &rarr; [github.com/yunity/karrot-frontend](https://github.com/yunity/karrot-frontend)
-* connect us with people who might fund it
+* contribute! &rarr; [github.com/yunity/karrot-frontend](https://github.com/yunity/karrot-frontend) <small>(Django, Vue)</small>
 
 ???
 
