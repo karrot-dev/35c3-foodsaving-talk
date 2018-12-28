@@ -28,18 +28,38 @@ layout: true
 
 # foodsharing.de
 
-<img src="./images/fairteiler_regensburg.jpg" style="position: absolute; left: 210px; border: 3px solid black" width="700" />
+<img src="./images/fairteiler_regensburg.jpg" style="position: absolute; left: 210px; top: 180px; border: 3px solid black" width="700" />
 <img src="./images/foodsharing-logo.jpg" style="position: absolute; left: 50px; top: 140px; border: 3px solid black" />
 <img src="./images/fsPickup.jpg" style="position: absolute; left: 30px; top: 380px; border: 3px solid black" width="350" />
-<img src="./images/fsSaver.jpg" style="position: absolute; left: 870px; top: 330px; border: 3px solid black" height="300" />
+<img src="./images/fsSaver.jpg" style="position: absolute; left: 900px; top: 330px; border: 3px solid black" height="300" />
 <img src="./images/fsPeople.jpg" style="position: absolute; left: 780px; top: 150px; border: 3px solid black" width="400" />
 
 
 ???
-- saving food before it's thrown into the bin
-- distributing it unconditionally to whoever can make use of it
-- grew big in German-speaking countries over the past 6 years
-- 50k foodsavers, 5k cooperating stores of all sizes
+- biggest volunteer-based foodsaving initiative
+- some idealist dumpster diver 7 years ago
+- absurd to rummage through trash
+- approached store owners, found some who agreed that it's a shame
+- more stores, more volunteers, distribution needed
+- quite complex pretty fast, so a foodsaver who happened to be a developer
+- 50k foodsavers, 5k cooperating stores, 600 publicly accessible fsps and a team of volunteer coders
+
+---
+
+# Golden rules
+
+<div style="text-align: center">
+  <img src="./images/fsGoldenRules.png" width="700"/>
+</div>
+
+???
+- simple, positive, direct and empowering
+- it's just natural to spread it further and further
+- It already grew beyond the borders of Germany years ago
+- nowadays extends more and more into areas where no German is spoken
+- foodsharing.de - which is only available in German - cannot be used there
+- but really, you don't need software to get started
+
 
 ---
 
@@ -52,11 +72,13 @@ layout: true
 </div>
 
 ???
-- Most work happens offline!
-- You need to get out to find potential foodsavers
-- You need to talk to establish cooperations with stores
-- You need to get off your chair to actually do a pickup
-- You need a physical network to distribute huge amounts of saved food
+- you only need some time, some ideas and some determination
+- get off your chair and out into the real world
+- talk to people about food waste, form a first small group of like-minded individuals and gather the courage to contact stores at eye level
+- may not be the easiest thing, but can simply be _done_
+- No need to ask someone for permission
+- You can just take matters into your own hands and get active!
+- but you don't need to get active alone...
 
 ---
 
@@ -67,9 +89,12 @@ layout: true
 </div>
 
 ???
-- You need people working together for this to function
-- Everything is more fun if you do it together with friends
-- What is more fun is more stable, as you'll keep on doing it
+- in fact, you need people coming together for this to work
+- in the end you need a whole community of foodsavers and eaters to make use of all the saved food
+- so you want a good community spirit so that ppl want to come back
+- and you want a core group of friends to coordinate everything
+- cos everything is more fun if you do it together with friends
+- and what is more fun is more stable, because you _like_ doing it
 
 ---
 
@@ -80,13 +105,16 @@ layout: true
 </div>
 
 ???
-- With a common goal and a plan!
-- Just get out there and call for action, they'll show themselves!
+- so how to find this core group of friends? How do people become friends?
+- getting to know each other, spending time together and finding out to have something in common
+- foodsaving offers all this through a common goal and a plan!
 - Start with info events and communal cooking to spread the word, continue with building FSPs and cooperations
 - A core group of maybe 5 foodsavers is more than enough for starters.
-- People need to get to know each other!
-- Organize activities that are fun _and_ pr at the same time
+- if everyone is a bit open and friendly you will most definitely get along
+- the more time you spend, the stronger your bond will grow.
+- So many things you can - and should! - do
 - Hangouts, brunches, communal cooking, movie screenings
+- activities that are fun _and_ pr at the same time
 
 ---
 
@@ -97,10 +125,14 @@ layout: true
 </div>
 
 ???
-- Foodsaving becomes a hobby and a lifestyle
-- Environmental and social reasons for foodsaving create a culture that can more easily spread and maintains itself
-- More people feel motivated and empowered to get further involved
-- More growth is possible: info stands, distribution events, festival participation
+- everything's gonna be much easier
+- You can share workloads and develop plans together,
+- you can exchange ideas and form synergies,
+- you can save food and have a jolly good time while at it.
+- Foodsaving becomes a hobby and a lifestyle, something you just _do_
+- underlying environmental and social reasons create a culture that can more easily spread and maintains itself
+- Leads to more people feeling motivated and empowered to get further involved
+- Leads to even more possible growth via more pr: info stands, distribution events, festival participation
 
 ---
 
@@ -111,11 +143,13 @@ layout: true
 </div>
 
 ???
-- People learn that they can actually make a change if they just go out and _do_ something
-- As soon as you have a group of dedicated foodsavers who share the same ideals, you have a group of activists
-- Many more similar topics in the sense of zero waste, upcycling, repairing and general environmentalism
-- And many more similar forms of countering these:
-  - Free shops and free markets, repair cafes, skill sharing sessions, etc.
+- Food waste is just one of many issues in this absurd world we live in today
+- When people become foodsavers, they're normally interested in making the world a better place,
+- when they participate for a while, they learn that they actually _can_ make a change
+- positive, productive and practical environmental activists
+- similar topics in the sense of zero waste, upcycling, repairing and general environmentalism become obvious
+- so do the many more similar forms of countering these, like:
+  - Organizing free shops and free markets, repair cafes, skill sharing sessions, etc.
 
 ---
 
