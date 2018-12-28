@@ -207,7 +207,6 @@ Our foodsaving tool and community organizer!
 </div>
 
 ???
-
 Karrot is our contribution to help foodsaving groups grow.
 It's a web app that gives each group their own space for organizing.
 We have desktop and mobile versions, because we are often on the road when we save food.
@@ -241,17 +240,23 @@ We can chat with them and invite them for a meeting in real-life before we accep
 
 # Karrot · Our ideals
 
-- serve many groups
-- encourage do-ocratic action
-- limit abuse through transparency
+- serve many groups in different countries
+- encourage do-ocratic participation
+- limit abuse
 
 ???
+"Why is Karrot the way it is?"
+
 Karrot development is driven by those ideas.
 
 We want to provide useful software for multiple groups which are different in many ways.
 They have different rules, different language.
 
-why we don't have admin roles
+We want to encourage participation in groups, from all members.
+Our model for this is "do-ocracy":
+do something if you think it should be done and be excellent to each other.
+
+We want to limit abuse, by having transparency as default to enable social control.
 
 ...
 
@@ -266,6 +271,8 @@ Karrot tries to organize groups without giving someone admin powers.
 - limit destructive actions
 
 ???
+TODO redo or delete this slide
+
 One decision that defines Karrot is how it handles admin tasks.
 We did everything we could to prevent admin roles.
 And it seems to work.
@@ -295,6 +302,8 @@ Let's get active!
 - you set up new co-operations and drive the group forward
 
 ???
+
+"what's an example of the special karrot way?"
 
 ...
 
@@ -339,6 +348,9 @@ We chose to go for a very simple trust system to experiment with it.
 
 
 ???
+
+"isn't there other software that does the same thing?"
+
 Karrot has drawn a number of inspirations from other software.
 Our main inspiration was foodsharing.de, with its dense network of foodsharing groups in German-speaking regions.
 But we made significant modifications to adapt it for worldwide use:
@@ -355,27 +367,6 @@ it is based on trust between users.
 
 ---
 
-# Karrot · History
-
-- started in 2016
-- has active users since mid-2017
-- currently 16 active groups in 9 countries with 500 active users
-- 50 food pickups per day
-
---
-
-500 users in two years?
-
-&rarr; Failure! - _if we were a startup..._
-
-But: **these people go out and save food every day!**
-
-???
-
-...
-
----
-
 # Karrot · Development
 
 - our users actively give feedback and help with setting priorities
@@ -385,6 +376,8 @@ But: **these people go out and save food every day!**
 
 ???
 
+"how did you achieve it?"
+
 ...
 
 --
@@ -393,6 +386,31 @@ But: **these people go out and save food every day!**
 
 - groups to spend some of their funds on Karrot
 - formalize cooperative structure for development and karrot.world
+
+???
+
+...
+
+---
+
+# Karrot · History
+
+- started in 2016
+- has active users since mid-2017
+- currently 16 active groups in 9 countries with 500 active users
+- 50 food pickups per day
+
+???
+
+"what is the current state of Karrot?"
+
+--
+
+500 users in two years?
+
+&rarr; Failure! - _if we were a startup..._
+
+But: **these people go out and save food every day!**
 
 ???
 
