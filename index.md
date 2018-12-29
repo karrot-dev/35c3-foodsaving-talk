@@ -218,7 +218,7 @@ With new software tools we need the development process itself to embody the sam
 - and today we have:
 - 50.000 foodsavers
 - 5.000 cooperating stores
-- 600 publicly accessible food-share point
+- 600 publicly accessible food-share points
 - a team of volunteer coders who keeps foodsharing.de running
 
 ---
@@ -247,11 +247,13 @@ With new software tools we need the development process itself to embody the sam
 <div class="grid-container">
   <img src="./images/computerPersonText.jpg" width="460"/>
   <b style="margin-top: 200px">vs.</b>
-  <img src="./images/nyamatraddareText.jpg" width="460"style="margin-top: 180px"/>
+  <img src="./images/nyamatraddareText.jpg" width="460"/>
 </div>
 
 ???
-- software doesn't help you build a real-life network of people
+- cause what software doesn't do is,
+- it's not gonna transform a lonely computer person into part of an active real-life community
+- software doesn't build a physical network of people for you
 - what's needed is some time, some ideas and some determination to make this work
 - get off your chair and out into the real world
 - talk to people about food waste, form a first small group of like-minded individuals and gather the courage to contact stores at eye level
@@ -372,11 +374,15 @@ With new software tools we need the development process itself to embody the sam
 - She contacts stores to build up cooperations
 - She contacts us and asks for help setting up a group on Karrot
 - our pickup management tool Tilmann will tell you more about in a second
-- As soon as the cooperations are established the stores and pickups are put up on Karrot and people can sign up there
 - Over the coming months a community forms, more cooperations are built and lots of food is saved
 - In three weeks Teddy will leave Östersund because her study time there is over, but look what she leaves behind:
-- 200 foodsavers in the Karrot group
+- there were 2 newspaper articles
+- participation in at least 4 public events
 - 5 cooperating stores, 2 of which are supermarkets
+- a public fsp with fridge
+- a hangout for the community twice a month
+- 600kg of food was saved
+- 200 foodsavers in the Karrot group
 
 ---
 
