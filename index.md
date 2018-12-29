@@ -120,9 +120,6 @@ sounds good like they're taking care of it but ...
 # Big Charity
 
 * there to fix state/market problems
-<<<<<<< HEAD
-* collect food and redirect to food banks and community cafes,
-=======
 * collect food and redirect to food banks and community cafes
 
 ???
@@ -132,7 +129,6 @@ sounds good like they're taking care of it but ...
   * seems perfect for food waste
 * collect food and redirect to food banks and community cafes
   * professional food handlers, regulated and trained
->>>>>>> Add more things and images
 
 --
 
