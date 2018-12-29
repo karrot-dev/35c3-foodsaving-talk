@@ -456,12 +456,27 @@ Our foodsaving tool and community organizer!
 
 ???
 Karrot is our contribution to help foodsaving groups grow.
-It's a web app that gives each group their own space for organizing.
-We have desktop and mobile versions, because we are often on the road when we save food.
+It's a open source web app that gives each group their own space for organizing.
 
 In one sentence: think of it as a combination of a collaborative calender and a messaging system.
+For those who help at this congress: there are also some similarities to the Engelsystem.
 
-Now let's look a bit deeper what we can do on Karrot.
+We have desktop and mobile versions, because we are often on the road when we save food.
+
+Now, let's look a bit deeper what we can do on Karrot.
+
+---
+background-color: black
+background-image: url(images/karrot-cooperations.png)
+background-size: 98%
+
+???
+First, someone creates a group and enters details about their co-operations.
+We can specify
+- where and when food pickups should happen
+- if they take place regularly or just one-time,
+- how many people are needed
+- and so on
 
 ---
 background-color: black
@@ -469,28 +484,56 @@ background-image: url(images/karrotost.png)
 background-size: 90%
 
 ???
-First, someone will create a group. Here's how the group start screen looks.
-Then, they enter details about their co-operations, where and when they happen, if they happen regularly, how many people are needed and so on.
+Here you see the list of food pickups of Foodsharing Östersund
+Members can sign up to do the pickups.
 
-There's a list of food pickups and people can sign up for them.
 As you can see here, all slots are already filled, which is very good!
 
-We can also write messages to the whole group, to individual users or to those we do food pickups together with.
+---
+background-color: black
+background-image: url(images/karrot-wall.png)
+background-size: 98%
 
+???
+We can write messages to the whole group,
+
+but also to
+- to individual users or
+- to those we do the next food pickup together with.
+
+---
+background-color: black
+background-image: url(images/karrot-feedbacklist.png)
+background-size: 95%
+
+???
 After doing the food pickup, we can give feedback how it went and how many kilos we saved.
-This helps to spread information amongst team members.
-We also get meaningful statistics.
+This helps to spread information amongst team members and we can derive meaningful statistics from it.
 
-To grow our group, we can invite others via email or let them apply for the group.
-We can chat with them and invite them for a meeting in real-life before we accept them into the group.
+---
+background-color: black
+background-image: url(images/karrot-apply.png)
+background-size: 98%
+
+???
+Before new members join, we let them apply and define the requirements for our group.
+Then we chat with the applicants, and invite them to next group meetup before we accept them into the group.
 
 ---
 
 # Karrot · Our goals
 
-- serve many groups in different countries
-- encourage do-ocratic participation
-- let people work together
+**serve many groups in different countries**
+
+&rarr; adapt to different social and legal context
+
+**encourage do-ocratic participation**
+
+&rarr; support "do something and be excellent to each other"
+
+**let people work together**
+
+&rarr; people want to make something great
 
 ???
 "Why is Karrot the way it is?"
@@ -498,9 +541,10 @@ We can chat with them and invite them for a meeting in real-life before we accep
 When we work on Karrot development, our search for the best solution is guided by these goals.
 
 We want to provide useful software for multiple groups which are different in many ways.
-They come from different countries and have different rules, different language.
+They come from different countries, so Karrot needs to adapt to different social and legal context.
 
 We want to encourage participation in groups, from all members.
+We want to avoid that a small number of people can dictate what others do.
 Our model for this is "do-ocracy":
 do something if you think it should be done and be excellent to each other.
 
@@ -510,93 +554,61 @@ We want to make sure they can do that and no getting interrupted by destructive 
 
 ---
 
-# Example: Group membership
+# Karrot · Independent Groups
+
+<div class="center">
+  <img height="400px" src="./images/karrot-groups.png" />
+</div>
+
+???
+There are many design decisions in Karrot that I would like to talk about.
+But there's not enough time in this talk, so I will just highlight a few topics.
+
+First, all groups are independent from each other.
+This allows them to set their own rules, because the social and legal context of every country is different.
+
+---
+
+# Karrot · Group membership
 
 <div class="center" style="padding-top: 40px">
   <img height="400px" src="./images/karrot-trust.svg" />
 </div>
 
 ???
-
-"what's an example of the special karrot way?"
-
-There are many design decisions in Karrot that I would like to talk about.
-But there's not enough time in this talk, so I will just highlight one topic.
-The group membership progress.
+Another interesting topic is how users become group members and how roles in the group evolve.
 
 - you apply to join group
 - group members interview you
-- (your accept rules, you come to a real-life meeting)
+- your accept rules, you come to a real-life meeting
 - group member accepts your application
+
 - you are newcomer
 - you do pickups, meet people, give feedback
+
+Newcomers have only limited rights until they gained the trust of other group members.
+
 - others trust you
 - you gain editing rights
 - you set up new co-operations and drive the group forward
 
-Newcomers have only limited rights until they gained the trust of other group members.
 Active long-term members should all become editors.
 
 This design has been inspired by the trust level of the Discourse forum software.
 
 ---
 
-# Karrot · Comparison
+# Karrot · Localization
 
 <div class="center">
-  <img height="100px" src="images/foodsharing-logo-white.png" />
+  <img height="400px" src="./images/karrot-languages.png" style="padding-right: 40px" />
+  <img height="400px" src="./images/karrot-taiwan.png"/>
 </div>
 
-Karrot has:
-
-- independent groups
-- multi-language and localization
-- self-managing trust-based hierarchy
-- feedback about pickups
-
-
 ???
+We added thorough localization support, so that groups can use Karrot in their own language and timezone.
 
-"isn't there other software that does the same thing?"
-
-Karrot has drawn a number of inspirations from other software.
-Our main inspiration was foodsharing.de, with its dense network of foodsharing groups in German-speaking regions.
-We made significant modifications to adapt it for worldwide use:
-
-First, all groups are independent from each other.
-This allows them to set their own rules, because the social and legal context of every country is different.
-
-We added localization support, so that groups can use Karrot in their own language and timezone.
-
-We use a self-managing trust-based hierarchy instead of manually assigning admin roles.
-
-We added a system to provide feedback about food pickups.
-
----
-
-# Karrot · Development
-
-- our users actively give feedback and help with setting priorities
-- unfunded
-- no one except the developers and the users have a say on what should be done
-- supported by saved food and various hackbases (&rarr; Kanthaus)
-
-???
-
-"how did you achieve it?"
-
-...
-
---
-
-## In future
-
-- groups to spend some of their funds on Karrot
-- formalize cooperative structure for development and karrot.world
-
-???
-
-...
+Our users already translated it into 11 languages.
 
 ---
 
@@ -611,6 +623,11 @@ We added a system to provide feedback about food pickups.
 
 "what is the current state of Karrot?"
 
+We started development in 2016, released early and after a big redesign, the first active users joined us in mid-2017.
+As of now, the end of 2018, we have 16 active groups in 9 countries.
+Of 1600 registered users, 500 are weekly active users of Karrot.
+Those people do 50 food pickups per day.
+
 --
 
 500 users in two years?
@@ -619,31 +636,76 @@ We added a system to provide feedback about food pickups.
 
 But: **these people go out and save food every day!**
 
+Motto: _move slow and make things_
+
 ???
 
-Startup: move fast and break things
-Resilience: move slow and make things
+500 users in two years doesn't sound much.
+If we were a startup, this could be considered an utter failure!
+
+But our users go out and save food every day, thereby driving the movement forward.
+
+In reference to the cliche startup approach "move fast and break things", somebody derived another version from it:
+
+"move slow and make things"
+
+That seems the resilient way to do and fits the Karrot Development best.
+
+---
+
+# Karrot · Development
+
+- 1.5 main developers, over 45 contributors
+- do-ocratic participation
+- users actively give feedback and help with setting priorities
+- unfunded
+- supported by saved food and various hackbases (&rarr; Kanthaus)
+
+???
+
+"how did we achieve it?"
+
+no one except the developers and the users have a say on what should be done
+
+
+--
+
+## In future
+
+- groups to spend some of their funds on Karrot
+- formalize cooperative structure for development and karrot.world
+
+???
 
 ---
 
 # Karrot · Generalization
 
-We can do more than foodsaving:
+We can do more than foodsaving: **bike saving &rarr; Bike kitchen movement**
 
-- bike saving &rarr; _Bike kitchen_ movement
-- wood saving
-- fruit from trees
-- elderly care
-- child care
+<div class="center">
+  <img height="250px" src="./images/karrot-bikekitchen.jpg" style="padding-right: 40px" />
+  <img height="250px" src="./images/karrot-bikes.jpg"/>
+</div>
+<small style="padding-bottom: 40px; padding-left: 130px">Göteborg Cyclekoket</small>
+
+Other causes: tool saving, event organizing, building material, fruit from trees, elderly care, child care
 
 ???
+Because Karrot is essentially a collaborative calender, other causes can benefit from it as well.
 
-"Can other fields benefit from Karrot as well?"
-...
+The bike kitchen movement saves parts from unwanted bikes and builds new bikes from it.
+All supported by community means.
+
+This year, the members from the oldest Gothenburg bike kitchen have approached us and want us to modify Karrot for their cause.
+We think it's a great idea to generalize Karrot more and make it a versatile platform for saving resources through community effort.
+
+There are countless other causes that might benefit from it as well.
 
 ---
+layout: false
 class: big
-# Karrot · join us!
+# Join us!
 
 * our assembly &rarr; Hall 2, Kanthaus
 * community forum &rarr; [community.foodsaving.world](https://community.foodsaving.world)
@@ -653,4 +715,33 @@ class: big
 
 ???
 
-...
+This was our talk!
+If you're intrigued, you can visit us at our assembly.
+You can recognize it by the "Kanthaus" sign in Hall 2.
+
+We also have various resources in the internet.
+- Our community forum on community.foodsaving.world
+- a news publication about foodsaving groups on foodsaving.today
+- a public Karrot instance on karrot.world
+- our code on Github
+
+---
+
+# Thanks
+
+<div class="center">
+  <img height="400px" src="images/foodsharing-logo-white.png" />
+</div>
+
+???
+Big thanks go to the great foodsharing.de community, which served as main inspiration for our foodsaving worldwide concept and Karrot development.
+
+---
+
+# Want a bite?
+
+<div class="center">
+  <img height="500px" src="images/food.jpg" />
+</div>
+
+
