@@ -261,7 +261,7 @@ We can chat with them and invite them for a meeting in real-life before we accep
 ???
 "Why is Karrot the way it is?"
 
-Karrot development is driven by those goals.
+When we work on Karrot development, our search for the best solution is guided by these goals.
 
 We want to provide useful software for multiple groups which are different in many ways.
 They come from different countries and have different rules, different language.
@@ -272,41 +272,14 @@ do something if you think it should be done and be excellent to each other.
 
 We want to let people work together.
 Our assumption is that people want to work together to make something great.
-We want to make sure they can do that and limit disturbances.
-
-...
+We want to make sure they can do that and no getting interrupted by destructive actions.
 
 ---
 
-# Karrot · No admin roles?
+# Example: Group membership
 
-Karrot tries to organize groups without giving someone admin powers.
-
-- people want to co-operate
-- enable social control
-- limit destructive actions
-
-???
-TODO redo or delete this slide
-
-One decision that defines Karrot is how it handles admin tasks.
-We did everything we could to prevent admin roles.
-And it seems to work.
-
-Our assumption is that people want to co-operate to make something great.
-We added a history feature to log important actions and enable social control within the group.
-
-We limit the types of destructive actions that can be done on the website.
-No one can delete information, delete messages or remove users.
-Changes are being logged and visible for other group members.
-Drastic actions, like removing users, will involve others in the group.
-
----
-
-# Karrot · Group membership progress
-
-<div class="center">
-  <img height="100px" src="./images/karrot-trust.svg" />
+<div class="center" style="padding-top: 40px">
+  <img height="400px" src="./images/karrot-trust.svg" />
 </div>
 
 ???
@@ -328,11 +301,9 @@ The group membership progress.
 - you set up new co-operations and drive the group forward
 
 Newcomers have only limited rights until they gained the trust of other group members.
-Because we want all members to have equal chances, active long-term members should grow out of the newcomer status at some point.
+Active long-term members should all become editors.
 
-We chose to go for a very simple trust system to experiment with it.
-
-...
+This design has been inspired by the trust level of the Discourse forum software.
 
 ---
 
@@ -342,12 +313,12 @@ We chose to go for a very simple trust system to experiment with it.
   <img height="100px" src="images/foodsharing-logo-white.png" />
 </div>
 
+Karrot has:
+
 - independent groups
-- flexible system to accept new members and introduce them to the group
-- better support for communication and notifications
-- feedback about pickups
 - multi-language and localization
 - self-managing trust-based hierarchy
+- feedback about pickups
 
 
 ???
@@ -356,17 +327,16 @@ We chose to go for a very simple trust system to experiment with it.
 
 Karrot has drawn a number of inspirations from other software.
 Our main inspiration was foodsharing.de, with its dense network of foodsharing groups in German-speaking regions.
-But we made significant modifications to adapt it for worldwide use:
+We made significant modifications to adapt it for worldwide use:
 
-First, all groups are independent.
+First, all groups are independent from each other.
 This allows them to set their own rules, because the social and legal context of every country is different.
 
-we added localization support
+We added localization support, so that groups can use Karrot in their own language and timezone.
 
-we got rid of the fixed hierarchy and replace it with a self-managing one.
-it is based on trust between users.
+We use a self-managing trust-based hierarchy instead of manually assigning admin roles.
 
-...
+We added a system to provide feedback about food pickups.
 
 ---
 
@@ -396,7 +366,7 @@ it is based on trust between users.
 
 ---
 
-# Karrot · History
+# Karrot · Progress
 
 - started in 2016
 - has active users since mid-2017
@@ -417,7 +387,8 @@ But: **these people go out and save food every day!**
 
 ???
 
-...
+Startup: move fast and break things
+Resilience: move slow and make things
 
 ---
 
