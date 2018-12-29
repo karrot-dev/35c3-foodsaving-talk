@@ -53,6 +53,7 @@ layout: true
 </div>
 
 ???
+- the golden rules are: (see slide)
 - simple, positive, direct and empowering
 - it's just natural to spread it further and further
 - It already grew beyond the borders of Germany years ago
@@ -66,7 +67,7 @@ layout: true
 # What software doesn't do
 
 <div class="grid-container">
-  <img src="./images/computerPersonText.jpg" width="500"/>
+  <img src="./images/computerPersonText.jpg" width="460"/>
   <b style="margin-top: 200px">vs.</b>
   <img src="./images/nyamatraddareText.jpg" width="460"style="margin-top: 180px"/>
 </div>
@@ -162,13 +163,24 @@ layout: true
 
 ???
 - by living this logic for a while people's view of the world can change
-
-- 'use what's already there'
-  - get active to find it, to understand it, to make it accessible and useful again
-- 'share what you don't immediately need'
-  - regain control over your desires, conquer your greed, understand that you are not your possessions
-- 'live by your own standards'
-  - reject normality as a value in itself, form independent opinions
+- huge part of the material abundance we have is wasted simply bc it's cheaper
+- it's a shame and an opportunity
+- one can just ask and oftentimes save things instead of buying them
+- enhanced awareness of one's own consumption creates clear preference to save, lend, buy 2nd hand - but _not_ buy new
+- also works other way around:
+- ownership of thousands of things is perceived as sinful burden rather than respectable accomplishment
+- Products should be used and not amassed
+- so everything that is not immediately needed by oneself gets shared with others
+- such a worldview is still pretty uncommon
+- differs from the normal, consumerist perspective quite a lot
+- leads to normality ceasing to be a value in itself,
+- and to an independent opinion taking hold.
+- Living by these three values implies being–
+  - an active problem-solver,
+  - a creative free-thinker,
+  - and having an independent, pragmatic conviction
+- which I find is basically a hacker attitude...
+- So how does it work to spread this idea?
 
 ---
 
@@ -194,7 +206,7 @@ layout: true
 layout: true
 
 <div style="float: right">
-  <img height="80px" src="./images/carrot_logo.png">
+  <img height="70px" src="./images/carrot_logo.png">
 </div>
 
 ---
