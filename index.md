@@ -103,17 +103,16 @@ sounds good like they're taking care of it but ...
   * UN speech "The first reporting by Member States is foreseen in 2022."
   * 7 years to report, how long before we act?
 * EU and UN reports
-  * policies, tools, reports
-  * little tangible impact
   * underfunded
+  * policies, knowledge resources, technical  tools, working groups and expert groups
+  * little tangible impact, UN: "impacts remains limited"
 * need people and organisations
   * 2016 france outlawed food waste, but lacks infrastructure to collect it
   * not solved from an office
 
 ---
 
-<img src="./images/paperwork.jpg" style="position: absolute; left: 0; top: 0px; width: 100%" />
-<small class="attribution">CC0</small>
+<img src="./images/office.jpeg" style="position: absolute; left: 0; top: 0px; width: 100%" />
 
 ---
 
