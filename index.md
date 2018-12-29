@@ -1,29 +1,16 @@
-# The foodsaving grassroots movement
+class: center
+<h1 style="border-bottom: none; padding-top: 100px">The foodsaving grassroots movement</h1>
 
-_the authors_
+.big[Nick Sellen, Janina Abels, Tilmann Becker]
 
----
+--
 
-# Agenda
-
-1. Introduction
-2. Deep-dive
-3. ...
-
----
-
-# Introduction
-
-* the problem of food waste approaches for dealing with it
-* foodsaving communities
-* karrot
-
----
-
-layout: true
-
-<div style="float: right">
-  <img height="80px" src="./images/cherry.png">
+<div class="center" style="font-size: 50px; padding-top: 40px">
+  <span style="font-size: 180px; font-family: 'Cabin Sketch'; vertical-align: middle">?</span>
+  &rarr;
+  <img style="vertical-align: middle" width="200px" src="./images/cherry.png">
+  &rarr;
+  <img style="vertical-align: middle" width="170px" src="./images/carrot_logo.png">
 </div>
 
 ---
@@ -193,7 +180,7 @@ sounds good like they're taking care of it but ...
 * exploitative labour
   * rely on huge network of people, users volunteers
   * no control, ownership, profits extracted back to investors
-  * heart of the business locked away from scrutiny 
+  * heart of the business locked away from scrutiny
 * real mission: profit
   * fighting food waste, saving the environment, making the world a better place
   * profit for founders and investors, mission creep
@@ -250,6 +237,14 @@ Let's see how these ideas apply to saving food.
 
 <img src="./images/foodwaste.jpeg" style="position: absolute; left: 0; top: 0px; width: 100%" />
 <small class="attribution">By OpenIDUser2 - GFDL, https://commons.wikimedia.org/w/index.php?curid=26747239</small>
+
+---
+
+layout: true
+
+<div style="float: right">
+  <img height="80px" src="./images/cherry.png">
+</div>
 
 ---
 
