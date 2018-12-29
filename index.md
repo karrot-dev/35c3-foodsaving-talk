@@ -193,24 +193,45 @@ With new software tools we need the development process itself to embody the sam
 
 
 ???
-- biggest volunteer-based foodsaving initiative
+- one solution already in place is foodsharing.de
+- biggest volunteer-based foodsaving initiative there is
 - some idealist dumpster diver 7 years ago
-- absurd to rummage through trash
+- absurd to rummage through trash to then find so much edible food that it's possible to live off it exclusively
 - approached store owners, found some who agreed that it's a shame
-- more stores, more volunteers, distribution needed
-- quite complex pretty fast, so a foodsaver who happened to be a developer
-- 50k foodsavers, 5k cooperating stores, 600 publicly accessible fsps and a team of volunteer coders
+- agreed on fixed times at which volunteers could pick up the surplus
+- soon there were more stores, more volunteers
+- distribution needed, because foodsavers themselves couldn't eat it all
+- it all got quite complex pretty fast
+- so a foodsaver who happened to be a developer created an online platform
+- to help with the organizational bits
 
 ---
 
-# Golden rules
+# foodsharing.de · Figures
+
+- 50.000 foodsavers
+- 5.000 cooperating stores
+- 600 publicly accessible food-share point
+- a team of volunteer coders
+
+???
+- and today we have:
+- 50.000 foodsavers
+- 5.000 cooperating stores
+- 600 publicly accessible food-share point
+- a team of volunteer coders who keeps foodsharing.de running
+
+---
+
+# foodsharing.de · Golden rules
 
 <div style="text-align: center">
-  <img src="./images/fsGoldenRules.png" width="700"/>
+  <img src="./images/fsGoldenRules.jpg" width="700"/>
 </div>
 
 ???
 - the golden rules are: (see slide)
+- this means that the foodsavers themselves can decide what to do with the saved food as long as it's gonna be eaten
 - simple, positive, direct and empowering
 - it's just natural to spread it further and further
 - It already grew beyond the borders of Germany years ago
@@ -320,24 +341,17 @@ With new software tools we need the development process itself to embody the sam
 
 ???
 - by living this logic for a while people's view of the world can change
-- huge part of the material abundance we have is wasted simply bc it's cheaper
-- it's a shame and an opportunity
-- one can just ask and oftentimes save things instead of buying them
-- enhanced awareness of one's own consumption creates clear preference to save, lend, buy 2nd hand - but _not_ buy new
-- also works other way around:
-- ownership of thousands of things is perceived as sinful burden rather than respectable accomplishment
-- Products should be used and not amassed
-- so everything that is not immediately needed by oneself gets shared with others
-- such a worldview is still pretty uncommon
-- differs from the normal, consumerist perspective quite a lot
-- leads to normality ceasing to be a value in itself,
-- and to an independent opinion taking hold.
-- Living by these three values implies being–
-  - an active problem-solver,
-  - a creative free-thinker,
-  - and having an independent, pragmatic conviction
-- which I find is basically a hacker attitude...
-- So how does it work to spread this idea?
+- they might start basing their actions on these three values:
+
+- 'use what's already there'
+  - get active to find it, to understand it, to make it accessible and useful again
+- 'share what you don't immediately need'
+  - regain control over your desires, conquer your greed, understand that you are not your possessions
+- 'live by your own standards'
+  - reject normality as a value in itself, form independent opinions
+
+- This is basically the description of an eco hacker, don't you agree?
+- So how does it work to spread this mindset?
 
 ---
 
@@ -350,13 +364,19 @@ With new software tools we need the development process itself to embody the sam
 </div>
 
 ???
+- Normally it goes somewhat like this:
 - Teddy from Germany is a very active foodsaver going to Sweden for her studies
 - She wants to spread the idea of foodsaving in her new city Östersund (50k inhabitants)
-- She holds two info events to gather like-minded people (only 4-6 people show up)
+- She holds two info events to gather like-minded people, where only 4-6 people show up
 - She creates two facebook groups to gather interested people and fellow foodsavers respectively
 - She contacts stores to build up cooperations
 - She contacts us and asks for help setting up a group on Karrot
+- our pickup management tool Tilmann will tell you more about in a second
 - As soon as the cooperations are established the stores and pickups are put up on Karrot and people can sign up there
+- Over the coming months a community forms, more cooperations are built and lots of food is saved
+- In three weeks Teddy will leave Östersund because her study time there is over, but look what she leaves behind:
+- 200 foodsavers in the Karrot group
+- 5 cooperating stores, 2 of which are supermarkets
 
 ---
 
