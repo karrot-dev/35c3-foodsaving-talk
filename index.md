@@ -298,7 +298,7 @@ Let's see how these ideas apply to saving food.
 <div class="grid-container">
   <img src="./images/computerPersonText.jpg" width="460"/>
   <b style="margin-top: 200px">vs.</b>
-  <img src="./images/nyamatraddareText.jpg" width="460"/>
+  <img src="./images/nyamatraddareText.jpg" width="460" style="margin-top: 180px"/>
 </div>
 
 ???
@@ -427,10 +427,15 @@ Let's see how these ideas apply to saving food.
 - our pickup management tool Tilmann will tell you more about in a second
 - Over the coming months a community forms, more cooperations are built and lots of food is saved
 - In three weeks Teddy will leave Östersund because her study time there is over, but look what she leaves behind:
+
+---
+
+# User story:<br>foodsharing Östersund
+
 - there were 2 newspaper articles
-- participation in at least 4 public events
+- info desks on at least 4 public events
 - 5 cooperating stores, 2 of which are supermarkets
-- a public fsp with fridge
+- a public food-share point with fridge
 - a hangout for the community twice a month
 - 600kg of food was saved
 - 200 foodsavers in the Karrot group
