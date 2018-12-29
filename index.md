@@ -14,7 +14,9 @@ _the authors_
 
 # Introduction
 
-_nothing here yet_
+* the problem of food waste approaches for dealing with it
+* actual communities doing stuff
+* karrot: our software to help
 
 ---
 
@@ -32,13 +34,11 @@ layout: true
 * hunger kills more than AIDS, malaria and tuberculosis combined
 * 1/3 of food is wasted globally
 * why is food wasted?
-* huge emissions of greenhouse gases
-
+* ecological catastrophe
 ???
 
 * around a billion malnourished people
   * moral disaster
-  * ecological catastrophe
 * hunger kills more than AIDS, malaria and tuberculosis combined
 * 1/3 of food is wasted globally
   * up to 50% in some estimates
@@ -51,7 +51,8 @@ layout: true
   * contracts that need supplies overproduction
   * the packaging has broken
   * the label is printed wrong
-* huge emissions of greenhouse gases
+* ecological catastrophe
+  * huge emissions of greenhouse gases
   * impact production + landfill is massive.
   * if it were a country ...
 
