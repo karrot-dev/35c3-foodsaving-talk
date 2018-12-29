@@ -26,6 +26,163 @@ layout: true
 
 ---
 
+# A moral and ecological catastrophe
+
+* around a billion malnourished people
+* hunger kills more than AIDS, malaria and tuberculosis combined
+* no shortage of food
+* industrialised food production wastes food at every level
+* huge emissions of greenhouse gases
+* more consumer waste in more developed countries
+
+???
+
+Food waste is a massive moral scandal and an ecological catastrophe of staggering proportion.
+
+There are around one billion malnourished people in the world and more people die from hunger than from AIDS, malaria and tuberculosis combined.
+
+Yet we waste an amount of food that would feed all of them. We don't have a food shortage.
+
+Food waste occurs at every stage along the supply chain for many reasons such as inadequate storage facilities, excessive cosmetic demands, consumer uncertainty over expiry dates, surplus production ensure contractual obligations are met, changing supermarket product lines, labelling errors, forecasting errors, excessive portion sizes, fears over health risks and much more.
+
+Many of these reasons can be attributed to our industrialised food production systems that normalise overproduction and waste in a drive to maximise profit - by comparison subsistence farmers and households in sub-Saharan Africa waste almost nothing.
+
+There is also a huge ecological impact from harvesting, processing, transporting, cooling, and cooking food, only to dump it in landfill where significant levels of methane and carbon dioxide are emitted.
+
+Were food waste represented as it's own country it would be the worlds 3rd largest emitter of greenhouse gases behind the USA and China.  It represents a quarter of all freshwater consumption and the land used to produce the food would be about the same size as China and the EU combined.
+
+In poorer countries more food is wasted during the harvesting, transportation, and storage. As countries get more economically advanced, the waste shifts to the consumer end where the environmental impact is worse having gone through more layers of the supply chain.  Around 50% of food waste in developed countries is consumer waste - as we get richer as individuals, we waste more.
+
+Now I'll look at how four types of organisations approach the issue.
+
+---
+
+# [Inter]Government organisations
+
+* much increased focus in the last 10 years
+* UN Sustainable Development Goal 12.3
+* approach: "target, measure, act"
+* when do we act?
+* need more than just reports and recommendations
+
+???
+
+Government and Intergovernmental organisations
+
+Ten years ago the problem of food waste in the EU was focused on composting and digesting bio waste. Within the last ten years the UN, the EU, and various Governments have put 10s, if not 100s, of millions of euros towards tackling the problem.
+
+In 2015 the UN Sustainable Development Goals were created including goal 12.3 - "By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses"
+
+X The EU have a created numerous projects, platforms, working groups, and reports concerning food waste.
+
+The high level approach is to "target, measure and act" but I fear they get stuck in the bureaucratic process of trying to define and measure everything. After years working on definitions of what "food" and "waste" actually is a UN speech earlier this year in New York announced that "The first reporting by Member States is foreseen in 2022.". The UN indicator for the food waste goal says that "No data for this indicator is currently available and its methodology is still under development". If it takes 7 years to start measuring the problem, how much longer will it take to actually solve it?
+
+Back in 2016 a report from the European Court of Auditors reported that:
+> the [EU] Commission’s action at a technical level has been limited to establishing working and expert groups
+
+A UN report this year says:
+> ... despite evident progress on the  development  of  policies, knowledge  resources  and  technical  tools,  the  application  and implementation of these to foster concrete and tangible changes in practices and impacts remains limited
+
+They report being seriously under resourced.
+
+They are also perhaps working against the Sustainable Development Goal 8 which is to continue with economic growth, and will presumably create yet more wasteful consumers.
+
+In 2016, France got a lot of praise for requiring supermarkets to give surplus food to charity, however it comes with certain limitations:
+> ... if the supermarket signs an agreement to donate 1 % of such food, it is already complying with the law
+> A study showed that in one province less than 24% of total surplus food ended up with the partner charities
+> Supermarkets and their partner charities are in dire need of better redistribution services.
+
+Solving the problem needs not just high level policies and recommendations but a huge network of real people and organisations that are geared up to receive the food, food waste can't be solved from a office.
+
+X The ability and willingness of the state to achieve this is far from certain with the often conflicting interests of businesses to support and massive budget constraints.
+
+---
+
+# Big Charity
+
+* fix the problems the state or market can't or won't
+* now intertwined with state and market
+* stigma and shame of receiving from charity
+* short term measures of impact miss the point
+
+???
+
+Big Charity
+
+The traditional solution, at least in the UK, is big charity, large, widely known organisations that deal with the problems created by our society - homelessness, hunger, poverty, illness, etc. Their job is take take care of the issues that fall between the gaps of state and the market. They often depend on governments for their substantial funding needs, but these increasingly corporate organisations have come under scrutiny lately.
+
+A recent independent two year study by Civil Society Futures puts it like this: "Professionalised, brand-driven and beholden to government for their multi-million contracts and big business for their ‘partnerships’, charities are seen to have become part of the very system they were set up to challenge."
+
+This is highlighted by the 2014 UK law known as the "gagging law" that restricts the ability of charities to campaign on political topics in the run up to an election, and this year charities involved in back to work programmes had to sign gagging clauses preventing them from criticising the government.
+
+Government grants have become more like government contracts, and the organisations dependent on them become extensions of the state, tied to the objectives, ideologies, and whims of that state. Unaccountable to the people or communities actually impacted or involved.
+
+Food banks are one that surplus food can be redistributed, and a study in the Netherlands explored the emotional impact of receiving food from food banks. They found people experienced stigma and shame when using the service and realising their position at the bottom of the social hierarchy. They suggested it can more about satisfying the spiritual needs of the person donating the food and less about the needs of the person receiving the food.
+
+Giving the poor our leftover scraps is not an adequate response to systemic poverty. It's an "us and them" mentality that disempowers people.
+
+And in the words of the Civil Society Futures report: "too often ... size, turnover and short-term measures of impact are treated as the best measures of success ... real and long-lasting success comes from the depth and breadth of connections with people and communities, and the opportunity for everyone involved to have some power."
+
+My sister has worked in the charity sector for over 30 years and when discussing the recommendations from the Civil Society Futures report with her she laughed and told me people have been writing reports saying this kind of thing her whole career.
+
+Maybe to actually implement these ideas we need to look beyond the charity sector. Let's have a look what's happening in the private sector...
+
+---
+
+# Startups
+
+* €143 billion cost of food waste in EU
+* venture capital, users, profit
+* rely on people
+* can we solve problems and profit?
+
+???
+
+Startups
+
+The cost of food waste has been estimated at 143 billion euros in the EU alone. A number of startups have popped up in recent years such as Olio, Too Good To Go, and Karma to try and unlock some of that as profit. The standard model is to attract venture capital, grow the user base, then find a way to extract profit and between these three they have raised at least thirty five million euros to do that. Their websites tell you how they are fighting food waste, saving the environment, and making the world a better place but fundementally their purpose is to generate profit for the founders and the investors.
+
+They sometimes appear as community organisations where you can do your bit for society and they rely on building a network of users and volunteers, but you have no actual control, share of the profit, or ownership in the company. The data, algorithms, and business strategies are locked behind a layer of propriety software beyond scrutiny. More "us and them" mentality.
+
+Capitalism, through our industrialised food production systems, has created many of our food waste problems and leaving it to capitalism to solve them is risky when profit will always be the first priority. And we have countless examples of businesses that show a systematic disregard for any other interest - workers rights, users privacy, environmental impact, or legitmate community concerns.
+
+They may also have the perverse incentive to actually increase food waste. The more food waste there is the bigger the market there is to expand into. The bottom line is profit, not reduction of food waste.
+
+X It's a shift from a sharing mindset to a market mindset.
+
+To build a stronger more resilient society that can solve problems we need another approach.
+
+---
+
+# A task for the community
+
+* part of a wider change
+* not waiting for permission or a plan
+* participatory not passive consumerism
+* need supportive software tools
+
+???
+
+A task for the community
+
+We recognise that preventing food waste is not an isolated problem in need of a narrow targeted solution, but can be solved as part of a wider cange in society.
+
+The Civil Society Futures report described the need for "a radical and creative shift that puts power in the hands of people and communities, preventing an ‘us and them’ future, connecting us better and humanising the way we do things." ... and that it's about ... "not waiting for permission, or hoping others will provide a plan".
+
+To break free from the limitations of the state or the market we need to build community-led organisations that are encourage self-help, self-responsibility, democracy, equality, equity and solidarity. We need to move away from passive consumerism and believing our systems and structures will take care of societies problems. Community groups, activists, solidarity economies, transition towns, and co-operatives are leading the way.
+
+You'll hear from Janina later about how these community approaches are being used to collect surplus food from supermarkets and to allow neighbours to share food and organise community meals.
+
+? And that once communities are built they don't stop at one topic but hang out with others to form a network of communities tackling whichever topics they see need solving.
+
+And these approaches can also be used to improve our food supply chains directly through food buying co-ops, community supported agriculture, and local food growing inititives.
+
+We need software tools that support these organising methods, and existing tools like Facebook groups don't cut it. They aren't built with or for transparency, freedom, democracy, or paticipation, they encourage passive clicktavism mindsets and you're competing with their main goal of getting clicks to advertisers.
+
+With new software tools we need the development process itself to embody the same values, to be inclusive, democratic, and participatory or we risk rebuilding the hierarchies and structures we're trying to get away from.
+
+---
+
 # foodsharing.de
 
 <img src="./images/fairteiler_regensburg.jpg" style="position: absolute; left: 210px; top: 180px; border: 3px solid black" width="700" />
