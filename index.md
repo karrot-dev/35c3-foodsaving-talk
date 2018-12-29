@@ -113,7 +113,7 @@ but
 # Big Charity
 
 * there to fix state/market problems
-* collect food and redirect to food banks and community cafes, 
+* collect food and redirect to food banks and community cafes,
 
 --
 
@@ -146,7 +146,7 @@ but
 * short term measures of impact miss the point
   * "size, turnover and short-term measures of impact"
   * long term "connections with people and communities... everyone involved to have some power"
-  * sister 30+ years, laughed at recommenations, seen reports like this 
+  * sister 30+ years, laughed at recommenations, seen reports like this
 
 * look beyond charity sector, see private sector
 
@@ -186,7 +186,7 @@ but
 * exploitative labour
   * rely on huge network of people, users volunteers
   * no control, ownership, profits extracted back to investors
-  * real heart of the business locked away from scrutiny 
+  * real heart of the business locked away from scrutiny
 
 What's left? resilient communities...
 
@@ -209,7 +209,7 @@ What's left? resilient communities...
 * part of a wider change for civil society
   * food waste not isolated problem
   * Civil Society Futures report
-* democratic and participatory 
+* democratic and participatory
   * people are involved
   * have control of tools, software
   * share power
@@ -241,6 +241,7 @@ Let's see how these ideas apply to saving food.
 <img src="./images/fsPickup.jpg" style="position: absolute; left: 30px; top: 380px; border: 3px solid black" width="350" />
 <img src="./images/fsSaver.jpg" style="position: absolute; left: 900px; top: 330px; border: 3px solid black" height="300" />
 <img src="./images/fsPeople.jpg" style="position: absolute; left: 780px; top: 150px; border: 3px solid black" width="400" />
+<p style="position: absolute; left: 500px; top: 580px; background-color: white; font-size: 12px">pictures by foodsharing.de</p>
 
 
 ???
@@ -300,6 +301,7 @@ Let's see how these ideas apply to saving food.
   <b style="margin-top: 200px">vs.</b>
   <img src="./images/nyamatraddareText.jpg" width="460" style="margin-top: 180px"/>
 </div>
+<p style="position: absolute; left: 500px; top: 580px; background-color: white; font-size: 10px">all pictures by the respective groups or cc0</p>
 
 ???
 - cause what software doesn't do is,
@@ -748,5 +750,3 @@ Big thanks go to the great foodsharing.de community, which served as main inspir
 <div class="center">
   <img height="500px" src="images/food.jpg" />
 </div>
-
-
