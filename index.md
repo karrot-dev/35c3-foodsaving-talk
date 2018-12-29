@@ -15,8 +15,8 @@ _the authors_
 # Introduction
 
 * the problem of food waste approaches for dealing with it
-* actual communities doing stuff
-* karrot: our software to help
+* foodsaving communities
+* karrot
 
 ---
 
@@ -76,8 +76,16 @@ layout: true
 * now recognised at high levels
 * approach: target &rarr; measure &rarr; act
 * UN Sustainable Development Goal 12.3
-> "By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses"
+> "By 2030, halve per capita global food waste at the retail and consumer levels"
 
+???
+
+* now recognised at high levels
+  * last 10 years recognized the problem UN, EU
+  * 10s if not 100s of millions of euros into it
+* approach: target &rarr; measure &rarr; act
+* UN Sustainable Development Goal 12.3
+> "By 2030, halve per capita global food waste at the retail and consumer levels"
 
 --
 
@@ -89,15 +97,8 @@ layout: true
 
 ???
 
-* now recognised at high levels
-  * last 10 years recognized the problem UN, EU
-  * 10s if not 100s of millions of euros into it
-* target measure act
-* SDG 12.3
-
-but
+sounds good like they're taking care of it but ...
 * get stuck trying to measure?
-  * linear approach
   * what does food or waste even mean
   * UN speech "The first reporting by Member States is foreseen in 2022."
   * 7 years to report, how long before we act?
@@ -111,18 +112,18 @@ but
 
 ---
 
+<img src="./images/paperwork.jpg" style="position: absolute; left: 0; top: 0px; width: 100%" />
+<small class="attribution">CC0</small>
+
+---
+
 # Big Charity
 
 * there to fix state/market problems
+<<<<<<< HEAD
 * collect food and redirect to food banks and community cafes,
-
---
-
-## ... but
-
-* now intertwined with state and market
-* stigma of living from charity
-* short term measures of impact miss the point
+=======
+* collect food and redirect to food banks and community cafes
 
 ???
 
@@ -131,19 +132,31 @@ but
   * seems perfect for food waste
 * collect food and redirect to food banks and community cafes
   * professional food handlers, regulated and trained
+>>>>>>> Add more things and images
+
+--
+
+## ... but
+
+* stigma of living from charity
+* now intertwined with state and market
+* short term measures of impact miss the point
+
+???
 
 ... but
+* stigma of living from charity
+  * want: dignity, independence, empowerment
+  * netherlands study food bank emotions:
+    * appreciated food but
+    * the shame of being "bottom of the social hierarchy"
+  * not approach to solving systemic poverty
 * now intertwined with state and market
   * recent report about state of civil society
     * "charities are seen to have become part of the very system they were set up to challenge"
   * grants -> contracts
   * UK: laws setup to prevent criticism of the government
   * accountable to their funders, not people and communities
-* stigma of living from charity
-  * want: dignity, independence, empowerment
-  * netherlands study food bank emotions:
-    * appreciated food but
-    * the shame of being "bottom of the social hierarchy"
 * short term measures of impact miss the point
   * "size, turnover and short-term measures of impact"
   * long term "connections with people and communities... everyone involved to have some power"
@@ -159,13 +172,6 @@ but
 * startup model: venture capital, lots of users, business model
 * business models: charge to collect waste, sell food, advertising/promotions
 
---
-
-## ... but
-
-* real mission: profit
-* exploitative labour
-
 ???
 
 * food waste costs €143 billion in EU alone
@@ -178,16 +184,37 @@ but
     * let them sell + commission
     * advertising, promotions
 
+--
+
+## ... but
+
+* exploitative labour
+* real mission: profit
+
+???
+
 ... but
 
-* real mission: profit
-  * fighting food waste, saving the environment, making the world a better place
-  * profit for founders and investors
-  * good intent, but... when it comes to it
 * exploitative labour
   * rely on huge network of people, users volunteers
   * no control, ownership, profits extracted back to investors
-  * real heart of the business locked away from scrutiny
+  * heart of the business locked away from scrutiny 
+* real mission: profit
+  * fighting food waste, saving the environment, making the world a better place
+  * profit for founders and investors, mission creep
+  * good intent, but... when it comes to it instead of being accountable to ...
+
+---
+
+<img src="./images/happypeople.jpg" style="position: absolute; left: 0; top: 0px; width: 100%" />
+
+---
+
+<img src="./images/richman.jpg" style="position: absolute; left: 0; top: 0px; width: 100%" />
+<small class="attribution">CC0 Photo by mentatdgt from Pexels</small>
+
+???
+Don't want to be accountable to...
 
 What's left? resilient communities...
 
@@ -199,11 +226,7 @@ What's left? resilient communities...
 > "a radical and creative shift that puts power in the hands of people and communities, preventing an ‘us and them’ future, connecting us better and humanising the way we do things."<br>
 > "not waiting for permission, or hoping others will provide a plan"
 * democratic and participatory
-* the world is in our hands
-  * community and activist groups
-  * solidarity economies
-  * transition towns
-  * co-operatives
+* the world is in _our_ hands
 
 ???
 
@@ -216,7 +239,7 @@ What's left? resilient communities...
   * share power
   * move away from social hierarchy, no us and them
   * active not passive consumers
-* the world is in our hands
+* the world is in _our_ hands
   * as seen, nobody is coming
   * systems and structures fail us
   * we can use/learn from:
