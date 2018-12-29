@@ -487,8 +487,8 @@ We can specify
 
 ---
 background-color: black
-background-image: url(images/karrotost.png)
-background-size: 90%
+background-image: url(images/karrot-pickups.png)
+background-size: 98%
 
 ???
 Here you see the list of food pickups of Foodsharing Östersund
@@ -561,21 +561,6 @@ We want to make sure they can do that and no getting interrupted by destructive 
 
 ---
 
-# Karrot · Independent Groups
-
-<div class="center">
-  <img height="400px" src="./images/karrot-groups.png" />
-</div>
-
-???
-There are many design decisions in Karrot that I would like to talk about.
-But there's not enough time in this talk, so I will just highlight a few topics.
-
-First, all groups are independent from each other.
-This allows them to set their own rules, because the social and legal context of every country is different.
-
----
-
 # Karrot · Group membership
 
 <div class="center" style="padding-top: 40px">
@@ -583,18 +568,17 @@ This allows them to set their own rules, because the social and legal context of
 </div>
 
 ???
-Another interesting topic is how users become group members and how roles in the group evolve.
+There are many design decisions in Karrot that I would like to talk about.
+But there's not enough time in this talk, so I will just highlight a three topics.
+
+First: how users become group members and how roles in the group evolve?
 
 - you apply to join group
 - group members interview you
-- your accept rules, you come to a real-life meeting
-- group member accepts your application
-
+- you come to a real-life meeting
+- group accepts your application
 - you are newcomer
-- you do pickups, meet people, give feedback
-
-Newcomers have only limited rights until they gained the trust of other group members.
-
+- you do pickups, meet people, give feedback<br>Newcomers have only limited rights until they gained the trust of other group members.
 - others trust you
 - you gain editing rights
 - you set up new co-operations and drive the group forward
@@ -602,6 +586,21 @@ Newcomers have only limited rights until they gained the trust of other group me
 Active long-term members should all become editors.
 
 This design has been inspired by the trust level of the Discourse forum software.
+
+---
+
+# Karrot · Independent Groups
+
+<div class="center">
+  <img height="400px" src="./images/karrot-groups.png" />
+</div>
+
+???
+Another decision was to make all groups independent from each other.
+
+This allows them to set their own rules, because
+- the social and
+- legal context of every country is different.
 
 ---
 
@@ -615,7 +614,9 @@ This design has been inspired by the trust level of the Discourse forum software
 ???
 We added thorough localization support, so that groups can use Karrot in their own language and timezone.
 
-Our users already translated it into 11 languages.
+Our users already translated it into 11 languages, most with good translation coverage.
+
+In the right picture, you can see the Karrot instance for the Taiwanese foodsharing group.
 
 ---
 
@@ -630,10 +631,14 @@ Our users already translated it into 11 languages.
 
 "what is the current state of Karrot?"
 
-We started development in 2016, released early and after a big redesign, the first active users joined us in mid-2017.
+We started development in 2016, released early
+
+After a big redesign, the first active users joined us in mid-2017.
+
 As of now, the end of 2018, we have 16 active groups in 9 countries.
+
 Of 1600 registered users, 500 are weekly active users of Karrot.
-Those people do 50 food pickups per day.
+They do 50 food pickups per day in total.
 
 --
 
@@ -662,27 +667,43 @@ That seems the resilient way to do and fits the Karrot Development best.
 
 # Karrot · Development
 
-- 1.5 main developers, over 45 contributors
+- 1.5 main developers, over 50 contributors
 - do-ocratic participation
 - users actively give feedback and help with setting priorities
 - unfunded
-- supported by saved food and various hackbases (&rarr; Kanthaus)
+- supported by saved food and hackbases (&rarr; Kanthaus)
 
 ???
 
 "how did we achieve it?"
 
-no one except the developers and the users have a say on what should be done
+We are a small team, with a bit more than one main developer.
 
+We receive quite much attention, so far over 50 people contributed to Karrot
+
+We rely on do-ocratic participation.
+
+Our development is unfunded, but supported by saved food and hackbases like Kanthaus in Wurzen, close to Leipzig.
+The advantage of this is that no one except the developers or the users have a say on what should be done.
 
 --
 
 ## In future
 
 - groups to spend some of their funds on Karrot
-- formalize cooperative structure for development and karrot.world
+- formalize co-operative structure
+- continue designing & coding!
 
 ???
+
+Our plans for the future are to acquire some funding through groups on Karrot.
+Because they are doing useful work, they are usually able to be funded by various grants around the world.
+They would give us some of their money to drive development forward.
+
+We want to formalize our co-operative structure, both for development and for running the main instance on karrot.world.
+That should make our participation and decision-making process more inviting to new people.
+
+And of course: continue designing & coding!
 
 ---
 
@@ -722,9 +743,10 @@ class: big
 
 ???
 
-This was our talk!
-If you're intrigued, you can visit us at our assembly.
-You can recognize it by the "Kanthaus" sign in Hall 2.
+This was our presentation!
+
+If you're intrigued, you can visit us at our assembly in Hall 2.
+You can recognize it by the "Kanthaus" sign.
 
 We also have various resources in the internet.
 - Our community forum on community.foodsaving.world
@@ -741,7 +763,10 @@ We also have various resources in the internet.
 </div>
 
 ???
-Big thanks go to the great foodsharing.de community, which served as main inspiration for our foodsaving worldwide concept and Karrot development.
+Big thanks go to foodsharing.de
+
+- Its community served as main inspiration for our foodsaving worldwide concept
+- Its software inspired Karrot development.
 
 ---
 
@@ -750,3 +775,8 @@ Big thanks go to the great foodsharing.de community, which served as main inspir
 <div class="center">
   <img height="500px" src="images/food.jpg" />
 </div>
+
+???
+And another thing: we have food!
+In Leipzig, like in all other big German cities, there's a foodsharing group.
+They were so nice to bring some of the saved food here to Congress. Thank you!
